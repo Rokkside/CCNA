@@ -51,4 +51,6 @@ From Host2, you should issue the following command to verify that pings to Host1
 
 <img width="432" height="186" alt="Screenshot 2026-03-11 at 11 17 25 AM" src="https://github.com/user-attachments/assets/4847a46a-1870-4aca-98f2-af5ba7721582" />
 
+Because the FastEthernet 1/0 interface on Router2 resides in a separate broadcast domain from the other interfaces on the router and from Router1, Switch1, and Host1, Router2 must forward packets that are destined to networks that lie on devices beyond Router2. Each router interface that is configured to operate on a network segment is an edge of a broadcast domain. In this network configuration, Router2’s FastEthernet 1/0 interface (192.0.2.129) is the edge of a broadcast domain that includes Switch2 and Host2.
 
+From Host2, you should issue the following command to verify that pings to Router1’s FastEthernet 1/0 interface (192.0.2.1) are successful:
