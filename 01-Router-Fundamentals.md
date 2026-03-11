@@ -9,7 +9,7 @@ The routers in this lab have basic Open Shortest Path First (OSPF) and Dynamic H
 Lab Topology
 The lab topology displays information about the network devices in the lab.
 
-<img width="898" height="904" alt="image" src="https://github.com/user-attachments/assets/487152fe-56be-451f-82a7-2e6ea011babc" />
+<img width="216" height="226" alt="Screenshot 2026-03-11 at 11 04 04 AM" src="https://github.com/user-attachments/assets/a72e3159-d05b-411d-8c8b-df334a353038" />
 
 ## Conections
 <img width="572" height="1288" alt="image" src="https://github.com/user-attachments/assets/5bc2a2d2-1eab-4462-8ccc-4d4aa33850b5" />
