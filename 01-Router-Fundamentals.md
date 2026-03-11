@@ -44,3 +44,11 @@ A router makes path decisions based on logical addresses, such as Internet Proto
 1. On Router1, display the routing table. Based on the output, to what network segments is Router1 capable of forwarding packets without using a routing protocol?
 2. Examine the output of Router1’s routing table. Why are the paths to the 2.2.2.2/32 network and the 192.0.2.128/25 network not local or directly connected paths?
 3. Based on what you know about how a router makes forwarding decisions, what do you think would happen if you configured a Loopback 1 interface on Router1 with an IP address of 3.3.3.3/32 and attempted to ping it from Router2 without any further configuration? What if you attempted to ping it from Host1?
+
+# Lab Solutions
+## Task 1: Explore a Broadcast Domain
+From Host2, you should issue the following command to verify that pings to Host1 (192.0.2.3) are successful:
+
+<img width="432" height="186" alt="Screenshot 2026-03-11 at 11 17 25 AM" src="https://github.com/user-attachments/assets/4847a46a-1870-4aca-98f2-af5ba7721582" />
+
+
