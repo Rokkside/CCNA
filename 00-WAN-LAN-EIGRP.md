@@ -23,3 +23,6 @@ A video is available that demonstrates the steps used in Task 1 and Task 2 of th
 This portion of the lab documentation will describe the tasks you should perform. If you have difficulty with these steps, you can see all of the commands you should enter in the Solutions section later in this document.
 
 On RouterA, configure the appropriate host name.
+
+<img width="636" height="122" alt="Screenshot 2026-03-11 at 11 42 31 AM" src="https://github.com/user-attachments/assets/a9c25b50-9e38-4da3-92d2-19727835a0af" />
+
