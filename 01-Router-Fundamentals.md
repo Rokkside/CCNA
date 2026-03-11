@@ -12,9 +12,10 @@ The lab topology displays information about the network devices in the lab.
 <img width="216" height="226" alt="Screenshot 2026-03-11 at 11 04 04 AM" src="https://github.com/user-attachments/assets/a72e3159-d05b-411d-8c8b-df334a353038" />
 
 ## Conections
-<img width="572" height="1288" alt="image" src="https://github.com/user-attachments/assets/5bc2a2d2-1eab-4462-8ccc-4d4aa33850b5" />
 
-<img width="2002" height="1038" alt="image" src="https://github.com/user-attachments/assets/06277fa8-d080-4e26-b951-33059073675c" />
+<img width="144" height="335" alt="Screenshot 2026-03-11 at 11 06 22 AM" src="https://github.com/user-attachments/assets/a0e339de-0085-4551-b00c-dbb8df624f13" />
+
+<img width="432" height="228" alt="Screenshot 2026-03-11 at 11 07 50 AM" src="https://github.com/user-attachments/assets/400d80d4-96e2-43da-8828-84a792d90d50" />
 
 ## Lab Tasks
 ### Task 1: Explore a Broadcast Domain
